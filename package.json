@@ -1,0 +1,27 @@
+{
+  "name": "loja-virtual-de-games",
+  "version": "1.0.0",
+  "description": "Implementação de uma loja virtual (e-commerce) de games pelo framework Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiviaMAC/loja-virtual-de-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiviaMAC/loja-virtual-de-games/issues"
+  },
+  "homepage": "https://github.com/NiviaMAC/loja-virtual-de-games#readme",
+  "dependencies": {
+    "@angular/cdk": "^19.2.15",
+    "@angular/cli": "^19.2.11",
+    "@angular/core": "^19.2.10",
+    "@angular/material": "^19.2.15",
+    "bootstrap": "^5.3.6"
+  }
+}
